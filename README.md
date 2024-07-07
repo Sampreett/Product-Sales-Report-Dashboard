@@ -1,4 +1,4 @@
-# Product and Sales Dashboard & Report
+
 
 **Description:**  
 This project provides a detailed analysis of product performance and sales data through comprehensive dashboards and reports. It is designed to offer insights into sales, profits, and cost metrics to support strategic business decisions.
