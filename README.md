@@ -22,11 +22,14 @@ This project provides a detailed analysis of product performance and sales data 
 ![Region comparision & KPIs](images/Region%20comparision%20&%20KPIs.png)
   
   - Waterfall chart displaying month-wise sales and profit, showing cumulative profit for each year and segment distribution.
-  <br>
+    <br>
+  
 ![Month-wise Cumulative Sales & Profit](images/Month-wise%20Cumulative%20Sales%20&%20Profit.png)
+    <br>
   
   - Product drill-through chart detailing units sold, month-wise sales, average discount offered each month, total profit, and total sales.
-   <br> 
+    <br>
+   
 ![Product wise Sales & Discount Drill-through](images/Product%20wise%20Sales%20&%20Discount%20Drill-through.png)
  
   
